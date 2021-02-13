@@ -198,3 +198,9 @@ body {
     margin-top: 10px;
     color: #f05f40;
 }
+
+/* Callout */
+
+.mark {
+        background-color: rgb(239 232 33 / 85%);
+}
